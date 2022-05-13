@@ -1,18 +1,18 @@
 
 clean up (if need)
 
-  rm node_modules/ -rf
-  rm yarn.lock
+    rm node_modules/ -rf
+    rm yarn.lock
 
 install
 
-  yarn install
+    yarn install
 
 build
 
-  yarn run webpack
+    yarn run webpack
 
 run
 
-  python3 -m http.server 8001
+    python3 -m http.server 8001
 
