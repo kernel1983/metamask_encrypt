@@ -1,9 +1,14 @@
 {
   "dependencies": {
-    "web3": "^1.7.0"
+    "@metamask/eth-sig-util": "^4.0.1",
+    "ascii85": "^1.0.2",
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0"
   },
   "devDependencies": {
-    "webpack": "^5.67.0",
+    "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2"
   }
 }
